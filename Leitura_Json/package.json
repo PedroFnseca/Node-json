@@ -1,0 +1,9 @@
+{
+  "name": "Le_json",
+  "version": "1.0.0",
+  "description": "Realiza alguns metodos para ler um arquivo json",
+  "main": "index.js",
+  "author": "Pedrofseca",
+  "license": "MIT",
+  "type": "module"
+}
